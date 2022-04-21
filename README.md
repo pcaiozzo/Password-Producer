@@ -9,4 +9,4 @@ https://pcaiozzo.github.io/Password-Producer/
 
 ## Screenshot
 
-![Screenshot](./photo.png)
+![photo](https://user-images.githubusercontent.com/101953051/164517131-2451e191-b658-49b1-bddb-73af3133cb7f.png)

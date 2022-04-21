@@ -5,8 +5,8 @@ Created this website so that the functions work properly. When using this genera
 
 ## Deployment link
 
-
+https://pcaiozzo.github.io/Password-Producer/
 
 ## Screenshot
 
-![Screenshot](./)
+![Screenshot](./photo.png)
